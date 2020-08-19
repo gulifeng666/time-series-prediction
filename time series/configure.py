@@ -1,5 +1,5 @@
 """
-Description     : 本文件用来控制各种敞亮，阈值等
+Description     : 本文件用来控制各种常量，阈值等
 """
 import os
 import  sys
